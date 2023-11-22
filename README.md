@@ -1,17 +1,5 @@
 # Gestão Financeira
 
-Aplicativo Python para gestão financeira usando SQLite. Registre transações, consulte saldos e mantenha controle das finanças pessoais. Fácil de configurar e executar.
-
-## Funcionalidades:
-
-- Adicione receitas e despesas.
-- Consulte listas e saldos.
-
-## Contribuições bem-vindas!
-
-
-# Gestão Financeira
-
 Uma aplicação simples de gestão financeira em Python, utilizando SQLite para armazenar informações sobre receitas e despesas. Registre suas transações, consulte saldos e mantenha controle das suas finanças pessoais de maneira eficiente.
 
 ## Funcionalidades Principais:
@@ -31,3 +19,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 ## Licença:
 
 Este projeto é licenciado sob a Licença MIT.
+
+## Contribuições bem-vindas!
